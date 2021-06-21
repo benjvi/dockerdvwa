@@ -1,0 +1,3 @@
+[submodule "benjvi-tutum-lamp-arm"]
+	path = benjvi-tutum-lamp-arm
+	url = https://github.com/tutumcloud/lamp

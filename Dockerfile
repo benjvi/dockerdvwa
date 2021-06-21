@@ -1,4 +1,4 @@
-FROM tutum/lamp:latest
+FROM benjvi/tutum-lamp-arm:latest
 MAINTAINER Nikolay Golub <nikolay.v.golub@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
